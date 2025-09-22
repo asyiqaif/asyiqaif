@@ -1,25 +1,31 @@
-# Halo 👋, Saya [Nama Kamu]
+# Halo 👋, Saya Asyiqa Istazfisabilla Farelli  
 
-## Tentang Saya
-- 🎓 Sedang belajar di bidang **[tuliskan jurusan/kampus kamu]**  
-- 💻 Tertarik dengan **Pemrograman, Data Science, dan Open Source**  
-- 📚 Saat ini sedang mempelajari **Git & GitHub** untuk kolaborasi proyek  
+## 🎓 Tentang Saya
+- Mahasiswa *S1 Geofisika* di *Universitas Gadjah Mada*  
+- Tertarik dengan ilmu kebumian, teknologi, dan riset geosains  
+- Sedang belajar *Git & GitHub* untuk pengembangan proyek akademik dan kolaborasi  
 
-## Aktivitas Saat Ini
-- 🔭 Sedang mengerjakan proyek: **[nama proyek atau tugas]**  
-- 🌱 Belajar lebih dalam tentang: **[contoh: Python, Machine Learning, atau Cloud Computing]**  
-- 🤝 Terbuka untuk kolaborasi di proyek **Open Source / Data Analysis / Web Development**  
+## 🌱 Aktivitas Saat Ini
+- 📚 Mendalami mata kuliah dan praktikum geofisika  
+- 🔭 Sedang mengerjakan tugas serta laporan terkait pemrograman dan pemodelan data  
+- 🤝 Terbuka untuk diskusi dan kolaborasi seputar *geosains* & *data analysis*  
 
-## Hobi & Minat
-- 🎮 Bermain game strategi dan simulasi  
-- 📷 Fotografi alam dan jalan-jalan  
-- 🎶 Mendengarkan musik sambil ngoding  
+## 🎶 Hobi Saya
+- Mendengarkan musik  
+- Menonton film 🎬  
 
-## Hubungi Saya
-- 📫 Email: [alamat email kamu]  
-- 🔗 LinkedIn: [link profil LinkedIn]  
-- 🐦 Twitter/X: [username Twitter]  
+## 📫 Hubungi Saya
+- ✉ Email: *asyiqaistazfisabilla@mail.ugm.ac.id*  
+- 📷 Instagram: [@asyiqaaf](https://www.instagram.com/asyiqaaf?igsh=MXZ1bHdmanl4em9ncQ==)  
 
 ---
 
-✨ *“Belajar itu proses, bukan hasil instan. Konsistensi lebih penting daripada kecepatan.”* ✨
+## 📊 Statistik GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asyiqaaf&show_icons=true&theme=tokyonight)  
+
+## 🏆 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyiqaaf&layout=compact&theme=tokyonight)  
+
+---
+
+✨ “Belajar itu proses panjang, bukan hasil instan. Konsistensi lebih penting daripada kecepatan.” ✨
